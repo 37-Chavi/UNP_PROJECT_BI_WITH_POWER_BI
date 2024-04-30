@@ -3,4 +3,4 @@ This dataset showcases Power BI visualizations analyzing top 10 popular movies a
 
 PPT-https://drive.google.com/file/d/14qQlziYs-Z1o9LyDhAxhZCM0piojFXsk/view?usp=sharing
 PBIX-https://drive.google.com/file/d/1XxRGh75bfR5FL4Vd4qMHb7aKoKtdBhRh/view?usp=sharing
-PDF-https://drive.google.com/file/d/1G3gHOyjgsS6vE0n0bqas0Lccmm-Hmy8S/view?usp=sharing
+PDF-https://drive.google.com/file/d/1b8oHJT2dK4RN2JruOAJwYNceJEfeXgrb/view?usp=sharing
